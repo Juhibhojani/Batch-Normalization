@@ -1,0 +1,10 @@
+Note: Due to lack of resource power we ran the notebook in 3 parts, for different variations of model
+
+Experiment 1&2:
+https://colab.research.google.com/drive/1o5RAu3pRFpoVnDj7kXsrplmFgUXUUqU0#scrollTo=ad3f301d
+
+Experiment 3:
+https://colab.research.google.com/drive/1nn8BrXMPD5VTJOZLn4m1qYV7npYBF1v1?authuser=2#scrollTo=JPE41_RjZTFd 
+
+Experiment 4&5:
+https://colab.research.google.com/drive/1SZAHG_ym0Clu6Y7SHUn-GR4ZNMvSwtSh?authuser=1#scrollTo=EubGOBrqdw_a 
